@@ -2,4 +2,4 @@
 
 Creates a jigsaw puzzle from any image
 
-[<img src="imgages/puzzle.png">
+[<img src="images/puzzle.png">
